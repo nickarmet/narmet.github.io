@@ -1,0 +1,29 @@
+body, html {
+	width: 100%;
+	height: 100%;
+}
+
+.background-img {
+	background-image: url('background.jpg');
+	background-position: center;
+	background-size: cover;
+	height: 100%;
+}
+
+.text-content {
+	padding-top: 14em;
+}
+
+.btn {
+	text-transform: uppercase;
+	border-radius: 300px;
+	margin-top: 90px;
+}
+
+.nav-link {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
